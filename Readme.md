@@ -2,7 +2,7 @@
 
 ## Objective & Summary
 
-**Classifying online comments based on toxicity (multi-label) using Neural Networks (Georgia Tech MSA)**
+**Classifying online comments based on toxicity (multi-label) using Neural Networks**
 
 * Built 3 Neural Network-based models & stacked them to create a Level 2 Classifier that was used in classifying comments on toxicity 
 * Used pre-trained word embeddings (FastText, GloVe) and extended dataset by translating to other languages & back to English 
